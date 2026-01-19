@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    box-sizing: content-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0B0B45;
+    color: #ffffff;
+}
+
+header {
+    background-color: #000000;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+
+    h1 {
+        font-size: 2.5em;
+        color: #00BFFF;
+    }
+
+    nav {
+        background-color: #111133;
+        padding: 15px 0;
+        text-align: center;
+    
+        a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 20px;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: 0.3s;
+    
+            &:hover {
+                color: #00BFFF;
+                transform: scale(1.1);
+            }
+        }
+    
+    }
+}
+
+
+section {
+    padding: 50px 20px;
+    border-bottom: 1px solid #222244;
+
+    h2 {
+        color: #00BFFF;
+        font-size: 2em;
+        margin-bottom: 25px;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+
+}
+
+.card {
+    background-color: #111133;
+    padding: 25px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s, background-color 0.3s;
+
+    &:hover {
+        transform: translateY(-5px);
+        background-color: #1A1A66;
+    }
+
+    h3 {
+        color: #00BFFF;
+        margin-bottom: 15px;
+        font-size: 1.5em;
+    }
+
+    p,
+    ul {
+        line-height: 1.6;
+        font-size: 1em;
+    }
+
+}
+
+footer {
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
+    color: #8888ff;
+    font-size: 0.9em;
+}
+
+#interacao {
+    form {
+        width: 100%;
+
+        input,
+        textarea {
+            width: calc(100% - 20px);
+            padding: 12px;
+            margin-bottom: 12px;
+            border: none;
+            border-radius: 6px;
+            font-size: 1em;
+        }
+
+        button {
+            background-color: #00BFFF;
+            color: #000000;
+            padding: 12px 25px;
+            border: none;
+            cursor: pointer;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 1em;
+            transition: 0.3s;
+
+            &:hover {
+                background-color: #0080FF;
+                transform: scale(1.05);
+            }
+        }
+    }
+}
