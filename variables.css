@@ -1,0 +1,38 @@
+:root {
+    /* ========== CORES ========== */
+    --cor-fundo-principal: #000000;
+    --cor-texto-principal: #eaeaea;
+    --cor-texto-secundario: #cccccc;
+    --cor-texto-hover: #ff4d4d;
+    --cor-secundaria: #151515;
+    --cor-terciaria: #0e0e0e;
+    --cor-borda: #ff0000;
+    --cor-borda-hover: #ff4d4d;
+    --cor-botao: #ff4d4d;
+    --cor-botao-hover: #cc0000;
+    --cor-botao-texto: #ffffff;
+    --cor-box-shadow: rgba(0, 0, 0, 0.9);
+
+    /* ========== TIPOGRAFIA ========== */
+    --font-principal: Arial, Helvetica, sans-serif;
+    --font-size-base: 0.95em;
+    --font-size-titulo: 1.05em;
+
+    /* ========== ESPAÇAMENTOS ========== */
+    --padding-secao: 25px;
+    --padding-artigo: 60px 25px;
+    --padding-form: 10px 12px;
+    --border-radius: 12px;
+
+    /* ========== OUTROS ========== */
+    --scroll-behavior: smooth;
+    --transition-rapida: 0.3s;
+
+    /* ========== CALENDARIO ========== */
+    --cor-th-tabela: #111;
+    --cor-borda-tabela: #1a1a1a;
+    --font-size-tabela: 0.85em;
+
+    /* ========== FORMULARIO ========== */
+    --padding-form: 10px 12px;
+}
