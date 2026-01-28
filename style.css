@@ -47,7 +47,7 @@ header {
     }
 
     >div {
-        border: 5px solid var(--cor-borda);
+        /* border: 5px solid var(--cor-borda); */
         height: min-content;
 
         img {
