@@ -1,6 +1,6 @@
 # PAP – KEDI - ARExperience   
 Prova de Aptidão Profissional  
-Curso: Técnico de Gestão Programador de Informática
+Curso: Técnico de Programador de Informática
 ---
 
 # Portefólio Digital
@@ -15,7 +15,7 @@ O portefólio digital reúne todos os elementos técnicos e visuais desenvolvido
 ## Imagem / Comunicação do Projeto
 ### Logótipo
 - Logótipo oficial da KEDI Games.
-<img href="src/logo_branca">
+<img href="src/logo_branca.png">
 
 ### Identidade Visual
 - Linguagem gráfica consistente aplicada ao site e documentação.
@@ -23,17 +23,3 @@ O portefólio digital reúne todos os elementos técnicos e visuais desenvolvido
 ### Cores e Elementos Gráficos
 - Paleta escura com destaque para azul tecnológico.
 - Elementos visuais associados a gaming e tecnologia.
-
----
-
-## Registo da Evolução
-
-📊 Mapa de Gantt – Tarefas PAP  
-https://docs.google.com/spreadsheets/d/1ezircSpiCQ77qodSW7F-PnntvohatfofLsYI1a_I2kk/edit?usp=sharing
-
----
-
-## Cronograma do Projeto
-
-📊 Mapa de Gantt – Apresentação PAP  
-https://docs.google.com/sp
